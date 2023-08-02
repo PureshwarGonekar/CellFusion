@@ -46,7 +46,7 @@ Cell Fusion is a website dedicated to selling mobile phones and related gadgets.
 
 ## Demo
 
-You can find a live demo of the "Cell Fusion" website [here](url-to-live-demo).
+You can find a live demo of the "Cell Fusion" website [here](https://cellfusion.000webhostapp.com/).
 
 ## Screenshots
 
