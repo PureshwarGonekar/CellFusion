@@ -50,9 +50,16 @@ You can find a live demo of the "Cell Fusion" website [here](url-to-live-demo).
 
 ## Screenshots
 
-![Homepage](url-to-screenshot1.png) <!-- Add relevant screenshots of your website here -->
-![Product Catalog](url-to-screenshot2.png)
-![Shopping Cart](url-to-screenshot3.png)
+### HomePage
+![Homepage](https://github.com/PureshwarGonekar/CellFusion/assets/88015818/76184e83-8dd7-4234-864f-1439a44e76ca)
+![After SignIn Page](https://github.com/PureshwarGonekar/CellFusion/assets/88015818/8d8db9ca-15a9-438f-9492-502479517773)
+
+### Product Catalog
+![Product Catalog](https://github.com/PureshwarGonekar/CellFusion/assets/88015818/23d54336-f262-4d6b-b61d-20ac0816d6f8)
+
+### Shopping Cart
+![Shopping Cart](https://github.com/PureshwarGonekar/CellFusion/assets/88015818/5ec1a240-8b44-402d-aca6-9843753a3f08)
+
 
 ## Contribution
 
