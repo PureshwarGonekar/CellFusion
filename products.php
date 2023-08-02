@@ -34,8 +34,9 @@ include "includes/common.php"
     
     <div class="container">
         <!-- Jumbotron Header -->
-            <div class="jumbotron home-spacer" id="products-jumbotron">
-                <center><h1>Welcome to our E-Store</h1>
+            <div class="jumbotron home-spacer" id="products-jumbotron" style="background: rgb(223,221,255);
+background: linear-gradient(38deg, rgba(223,221,255,1) 23%, rgba(220,252,255,1) 68%, rgba(152,238,255,1) 90%);">
+                <center><h1>Welcome to Cell Fusion</h1>
                 <p>We have the best Mobile phone from Biggest Brands for you. No need to hunt around, we have all in one place.</p>
               </center>
             </div>
