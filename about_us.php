@@ -5,7 +5,7 @@ require "includes/common.php";
 
 <html>
     <head>
-        <title>About Us | E-Store.com</title>
+        <title>About Us | Cell-Fusion</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
         
         <meta charset="UTF-8">
@@ -58,10 +58,14 @@ require "includes/common.php";
                    <div class="panel-body">
                     <h3 style="color:orange" class="color">OPPORTUNITIES</h3><br><br>
                         <b>Available Roles</b>
+                            <hr>
                             <ol>
-                                <li>Jr./Sr. Web Developer [Full Time Role + also available as a 6 Months Internships]</li>
-                                <li>Bussiness Apprentise [6 Months Internships]</li>
-                                <li>Manager at backend operations[Full Time Role + also available as a 6 Months Internships]</li>
+                                <li> <a href="#"> Jr./Sr. Web Developer [Full Time Role + also available as a 6 Months Internships]</li>
+                                </a>
+                                <li> <a href="#"> Bussiness Apprentise [6 Months Internships]</li>
+                                </a>
+                                <li> <a href="#"> Manager at backend operations[Full Time Role + also available as a 6 Months Internships]</li>
+                                </a>
                             </ol>
                         </div>
                 </div>

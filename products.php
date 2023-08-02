@@ -6,7 +6,7 @@ include "includes/common.php"
 <html>
    
 <head>
-        <title>Mobile | E-Store.com</title>
+        <title>Mobile | Cell-Fusion</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
         
     <meta charset="UTF-8">

@@ -8,7 +8,7 @@ if (!isset($_SESSION['email'])) {
 <!DOCTYPE html>
    <html lang="en">
    <head>
-       <title>Settings | E-Store.com</title>
+       <title>Settings | Cell-Fusion</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
 
          <meta name="viewport" content="width=device-width, initial-scale=1">

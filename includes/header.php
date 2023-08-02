@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><span style="color:orange" class="glyphicon glyphicon-home">&nbsp;E-Store.com</span></a>
+            <a class="navbar-brand" href="index.php"><span style="color:orange" class="glyphicon glyphicon-home">&nbsp;Cell-Fusion</span></a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">

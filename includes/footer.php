@@ -19,8 +19,8 @@
             <div class="columnf">
               <h3>Contact Us</h3>
                 <p>CONTACT No.&nbsp;&nbsp;&nbsp;&nbsp;&#43;91&#45;123&#45;456&#45;7890</p>
-                <p>E&#45;Store&#46;com &copy;<?php echo DATE('Y') ;?>.&nbsp;&nbsp;All Rights Reserved.</p>
-                <a class="link" href="">Made with&nbsp;</a>&#x1f495;<a class="link" href="">&nbsp;in India</a>
+                <p>Cell&#45;Fusion &copy;<?php echo DATE('Y') ;?>.&nbsp;&nbsp;All Rights Reserved.</p>
+                <a class="link" href="https://github.com/PureshwarGonekar">@Pureshwar Gonekar</a>
             </div>
         </div>
         

@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Cart | Life Style Store</title>
+        <title>Cart | Cell-Fusion</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
 
           <meta name="viewport" content="width=device-width, initial-scale=1">

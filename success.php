@@ -15,7 +15,7 @@ mysqli_query($con, $query) or die($mysqli_error($con));
 <!DOCTYPE html>
 
 <head>
-    <title>Success | Life Style Store</title>
+    <title>Success | Cell-Fusion</title>
     <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
 
       <meta name="viewport" content="width=device-width, initial-scale=1">

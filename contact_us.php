@@ -5,7 +5,7 @@ include "includes/common.php"
 
 <html>
     <head>
-        <title>Contact Us | E-Store.com</title>
+        <title>Contact Us | Cell-Fusion</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
         
         <meta charset="UTF-8">
@@ -70,17 +70,17 @@ include "includes/common.php"
 	       <div class="contact-info">
 	           <h2 class="title">Contact Info</h2>
 	               <address>
-				    <p>500 Lorem Ipsum Dolar Sit,</p>
-				    <p>22-56-3-5 Sit Amet, Lorem,</p>
-				    <p>USA</p>
-				    <p>Phone:(00) 222 555 3333</p>
-				    <p>Fax:(000) 222 55 33 6</p>
-				    <p>Email: info@estore.com</p>
+				    <p>Jabalpur,</p>
+				    <p>Madhya Pradesh,</p>
+				    <p>India</p>
+				    <p>Phone:(+91) 9090909090</p>
+				    <p>Fax: 222 55 33 6</p>
+				    <p>Email: info@cellfusion.com</p>
 	               </address>
 	               
 	            <div><h2 class="title">Follow Us On&#58;</h2>
-                   <a href="http://www.facebook.com/estore" target="_blank"><img src="./img/logofb.png" alt="fb logo" style="width:30px; height:30px; border:0"></a>
-                   <a href="http://www.twitter.com/estore" target="_blank"><img src="./img/logotwitter.png" alt="twitter logo" style="width:30px; height:30px; border:0 padding-left:10px;"></a>
+                   <a href="#" target="_blank"><img src="./img/logofb.png" alt="fb logo" style="width:30px; height:30px; border:0"></a>
+                   <a href="#" target="_blank"><img src="./img/logotwitter.png" alt="twitter logo" style="width:30px; height:30px; border:0 padding-left:10px;"></a>
                </div>
             </div>
         </div>
